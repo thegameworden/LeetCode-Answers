@@ -1,0 +1,135 @@
+This page contains the general information about ethanworden. This includes:
+	Their submission stats
+	Their contest rating
+	The breakdown of all the contests they have attended
+Submission Stats:
+[
+All : 299
+Easy : 180
+Medium : 118
+Hard : 1
+]
+
+
+
+ethanworden's contest ranking stats
+
+Rating: 1504
+Top Percentage: 41%
+Global Ranking: 156432/386520
+Contests Attended: 12
+
+
+
+ethanworden's contests stats
+
+[
+Contest Name: Weekly Contest 280
+Attended: True
+Trend direction: DOWN
+Problems solved: 1
+Total problems: 4
+Finish time in seconds: 00:07:32
+Rating: 1494
+Ranking: 9224
+
+Contest Name: Biweekly Contest 74
+Attended: True
+Trend direction: DOWN
+Problems solved: 1
+Total problems: 4
+Finish time in seconds: 00:03:46
+Rating: 1484
+Ranking: 8394
+
+Contest Name: Weekly Contest 285
+Attended: True
+Trend direction: DOWN
+Problems solved: 0
+Total problems: 4
+Finish time in seconds: 00:00:00
+Rating: 1431
+Ranking: 15296
+
+Contest Name: Weekly Contest 289
+Attended: True
+Trend direction: DOWN
+Problems solved: 2
+Total problems: 4
+Finish time in seconds: 01:40:49
+Rating: 1422
+Ranking: 11061
+
+Contest Name: Biweekly Contest 94
+Attended: True
+Trend direction: UP
+Problems solved: 1
+Total problems: 4
+Finish time in seconds: 00:32:40
+Rating: 1433
+Ranking: 6448
+
+Contest Name: Weekly Contest 326
+Attended: True
+Trend direction: UP
+Problems solved: 2
+Total problems: 4
+Finish time in seconds: 00:16:01
+Rating: 1438
+Ranking: 6846
+
+Contest Name: Biweekly Contest 95
+Attended: True
+Trend direction: UP
+Problems solved: 2
+Total problems: 4
+Finish time in seconds: 01:13:11
+Rating: 1442
+Ranking: 9407
+
+Contest Name: Weekly Contest 327
+Attended: True
+Trend direction: UP
+Problems solved: 2
+Total problems: 4
+Finish time in seconds: 00:25:37
+Rating: 1458
+Ranking: 7901
+
+Contest Name: Weekly Contest 328
+Attended: True
+Trend direction: UP
+Problems solved: 2
+Total problems: 4
+Finish time in seconds: 00:08:59
+Rating: 1507
+Ranking: 4000
+
+Contest Name: Biweekly Contest 101
+Attended: True
+Trend direction: DOWN
+Problems solved: 1
+Total problems: 4
+Finish time in seconds: 00:20:56
+Rating: 1488
+Ranking: 12199
+
+Contest Name: Weekly Contest 339
+Attended: True
+Trend direction: UP
+Problems solved: 2
+Total problems: 4
+Finish time in seconds: 00:23:36
+Rating: 1502
+Ranking: 7971
+
+Contest Name: Weekly Contest 340
+Attended: True
+Trend direction: UP
+Problems solved: 1
+Total problems: 4
+Finish time in seconds: 00:36:37
+Rating: 1504
+Ranking: 9058
+
+]
